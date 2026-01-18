@@ -10,7 +10,7 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 * 🌍  I'm based in Johor, Malaysia
 * 🖥️  See my Technology and Information System E-Portfolio at [here](https://aisahyap.github.io/TIS/)
 * ✉️  You can contact me at [haidatulaisahyap@graduate.utm.my](mailto:haidatulaisahyap@graduate.utm.my)
-* 🧠  I'm currently learning C++ , Java
+* 🧠  I'm currently learning C++ and Java
 
 ### Skills
 <p align="left">
