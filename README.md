@@ -10,9 +10,9 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 * ✉️  You may email me at [haidatulaisahyap@graduate.utm.my](mailto:haidatulaisahyap@graduate.utm.my)
 
 ### Education
-* 💡 University Technology Malaysia (2025-now) (Bachelor Degree of Computer Science)
-* 💡 Labuan Matriculation College (2023-2024) (Physical Science)
-* 💡 SMK Agama Igan (2018-2023) (Science Stream)
+* 💡 University Technology Malaysia (Bachelor Degree of Computer Science) (2025-now)
+* 💡 Labuan Matriculation College (Physical Science) (2023-2024)
+* 💡 SMK Agama Igan (Science Stream) (2018-2023)
 
 ### Skills
 <p align="left">
