@@ -13,7 +13,7 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 ### Education
 * University Technology Malaysia (2025-now) (Bachelor Degree of Computer Science)
 * Labuan Matriculation College (2023-2024) (Physical Science)
-* SMK AGAMA IGAN (2018-2023) (Secience Stream)
+* SMK AGAMA IGAN (2018-2023) (Science Stream)
 
 ### Skills
 <p align="left">
@@ -26,3 +26,7 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 
 ### E-PortFolio
 * 🖥️  See my **_Technology and Information System E-Portfolio_** at [here](https://aisahyap.github.io/TIS/)
+
+### Project
+* 🖥️ See my **_Carrots Catch Game_** at [here]
+* 🖥️ See my **_AI Movie Booking System_** at [here]
