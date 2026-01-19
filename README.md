@@ -25,6 +25,6 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 ### E-PortFolio
 * 🖥️  See my **_Technology and Information System E-Portfolio_** at [here](https://aisahyap.github.io/TIS/)
 
-### Project
+### Projects
 * 🖥️ Programming Technique 2 : [**_Carrots Catch Game_**](https://aisahyap.github.io/Carrots-Catch-Game/)
 * 🖥️ Technology and Information System: [**_AI Movie Booking System_**](https://aisahyap.github.io/AI-Movie-Booking-System/)
