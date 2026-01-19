@@ -12,7 +12,7 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 ### Education
 * University Technology Malaysia (2025-now) (Bachelor Degree of Computer Science)
 * Labuan Matriculation College (2023-2024) (Physical Science)
-* SMK AGAMA IGAN (2018-2023) (Science Stream)
+* SMK Agama Igan (2018-2023) (Science Stream)
 
 ### Skills
 <p align="left">
