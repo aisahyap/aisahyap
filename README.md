@@ -13,9 +13,9 @@ I am a first-year undergraduate pursuing a Bachelor of Computer Science at Unive
 * 🧠  I'm currently learning C++ and Java
 
 ### Education
-### University Technology Malaysia (2025-now) (Bachelor Degree of Computer Science)
-### Labuan Matriculation College (2023-2024) (Physical Science)
-### SMK AGAMA IGAN (2018-2023) (Secience Stream)
+* University Technology Malaysia (2025-now) (Bachelor Degree of Computer Science)
+* Labuan Matriculation College (2023-2024) (Physical Science)
+* SMK AGAMA IGAN (2018-2023) (Secience Stream)
 
 ### Skills
 <p align="left">
